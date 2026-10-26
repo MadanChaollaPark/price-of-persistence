@@ -1,0 +1,6 @@
+{
+  "agent_id": "synthetic-demo",
+  "primary_model": "primary-model-id",
+  "fallback_model": "fallback-model-id",
+  "endpoint": ""
+}
